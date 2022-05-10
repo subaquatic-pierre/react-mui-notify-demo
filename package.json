@@ -2,7 +2,7 @@
   "name": "react-mui-notify-demo",
   "version": "0.1.0",
   "private": false,
-  "homePage": "https://subaquatic-pierre.github.io/react-mui-notify-demo",
+  "homePage": ".",
   "repository": {
     "type": "git",
     "url": "git+https://subaquatic-pierre.github.io/react-mui-notify-demo.git"
